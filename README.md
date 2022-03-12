@@ -1,5 +1,9 @@
 # alpine-linux-setup
 Alpine Linux Setup
+# alpine wiki: scriptshttps://wiki.alpinelinux.org/wiki/Alpine_setup_scripts
+# todo
+full install auto script
+
 
 # Alpine Linux
 ## Base Installation
